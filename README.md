@@ -1,0 +1,2 @@
+# RxjavaRetrofitDemo
+Http请求，使用RxjavaRetrofit结合okhttp实现请求，代码简洁
